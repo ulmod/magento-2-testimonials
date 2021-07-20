@@ -10,7 +10,7 @@ With Magento 2 Testimonials, you can add a reviews/testimonials form on any page
 ## Key Features
 
 * Collect valuable feedback through testimonials
-* Support 4 layout pages to display the testimonial form on the new page
+* Support 4 layout pages to display testimonial form at seperate page
 * Support widgets to display testimonials on any pages and position
 * Support List, Grid, and Slider testimonial templates
 * Support Facebook, Twitter, LinkedIn, YouTube, Vimeo, and more social platforms
